@@ -1,8 +1,3 @@
-# las-vegas-hotel-review-sas-analysis
-This repository contains my MANG1041 – Business Analytics Programming I coursework on analysing TripAdvisor hotel reviews using SAS. The project includes a full SAS program, dataset, coursework brief, and the final submitted report.
-
----
-
 # Las Vegas Hotel Rating Prediction 
 
 **Tools:** SAS (PROC IMPORT, PROC MEANS, PROC CORR, PROC REG, PROC SQL, ODS PDF)
