@@ -3,7 +3,7 @@ This repository contains my MANG1041 – Business Analytics Programming I course
 
 ---
 
-# **Las Vegas Hotel Rating Prediction **
+# Las Vegas Hotel Rating Prediction 
 
 **Tools:** SAS (PROC IMPORT, PROC MEANS, PROC CORR, PROC REG, PROC SQL, ODS PDF)
 **Dataset:** TripAdvisor Las Vegas Strip Hotels (UCI Machine Learning Repository)
